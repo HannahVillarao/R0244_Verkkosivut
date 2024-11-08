@@ -19,7 +19,7 @@ footer {
     text-align: center;
 }
 
-h1 {
+h2 {
     text-align: center;
 }
 
@@ -34,6 +34,9 @@ nav {
     background-color: grey;
 
 }
+div.container {
+    width: 100%;
+}  
 
 section {
     background-color: lightsteelblue;
